@@ -1,0 +1,1 @@
+We need to build local libs and then just check them into the vendor dir bypassing the need to build openssl in GitHub workflow because it needs a 32bit perl installation and NASM etc and just does not work.  There is no way to create a vs project
