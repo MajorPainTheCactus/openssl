@@ -408,3 +408,6 @@ doc-nits
 # LSP (Language Server Protocol) support
 .cache/
 compile_commands.json
+
+# modder updates
+_build_*/
